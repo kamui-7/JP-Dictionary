@@ -18,12 +18,4 @@ And the settings page looks like this:
 
 ## Installation
 
-You can download the apk from [here](https://mega.nz/file/KQJ1BAQB#_HRvDrKFSxGZRAXsIs97uv42cuHS6uBV9-jgek45emw)
-
-## Feature Ideas
-
-Here are some feature ideas I may plan on adding:
-
-1. Show tags for a word (like frequency)
-2. Display pitch accent information as well
-3. Example sentences
+You can download the apk from [here](https://mega.nz/file/bJpkVSxJ#MesbRCQwOY-X5VgCuz1N3KSNYjCMcVlX2iNqhJ6dxk4)
