@@ -2,6 +2,8 @@
 
 This is a japanese dictionary that supports multiple famous japanese dictionaries such as the JMDict. This app is also easily accessible from almost any other app in your device.
 
+This is also my first app ive ever created, so there might be some bugs.
+
 ## Demo
 
 Here's how JP Dictionary works like:
