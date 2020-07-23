@@ -2,7 +2,7 @@
 
 This is a japanese dictionary that supports multiple famous japanese dictionaries such as the JMDict. This app is also easily accessible from almost any other app in your device.
 
-This is also my first app ive ever created, so there might be some bugs.
+This is also the first app ive ever created, so there might be some bugs.
 
 ## Demo
 
@@ -20,4 +20,4 @@ And the settings page looks like this:
 
 ## Installation
 
-You can download the apk from [here](https://mega.nz/file/bJpkVSxJ#MesbRCQwOY-X5VgCuz1N3KSNYjCMcVlX2iNqhJ6dxk4)
+You can download the apk from [here](https://mega.nz/file/6URUSQzC#8Nn2HLR8d7Qpw3VnWrP_BjUuoOyPST_ZDbHQI4WQlL8)
