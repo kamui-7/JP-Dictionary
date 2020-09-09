@@ -20,4 +20,4 @@ And the settings page looks like this:
 
 ## Installation
 
-You can download the apk from [here](https://mega.nz/file/6URUSQzC#8Nn2HLR8d7Qpw3VnWrP_BjUuoOyPST_ZDbHQI4WQlL8)
+You can download the apk from [here](https://drive.google.com/drive/folders/1HFOi-Mhuxqp8sL0FXmwfm3DfODQIydu1?usp=sharing)
